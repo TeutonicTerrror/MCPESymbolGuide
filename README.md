@@ -30,5 +30,5 @@ Click any element to copy its formatting code. Includes:
 - Footer links to creator portfolio  
 
 ## Credits  
-[teutonicterror](https://teutonicterror.pages.dev/)  (The Creator)
-Mojang-style font by [Mojang AB](https://www.minecraft.net) (not affiliated)
+- [teutonicterror](https://teutonicterror.pages.dev/)  (The Creator)
+- Mojang-style font by [Mojang AB](https://www.minecraft.net) (not affiliated)
